@@ -4,8 +4,7 @@ const Footer = (props) => {
 	return (
 		<footer>
         <div className="container">
-			<p>Esto es pie:</p>
-    	   <p>&copy;Iguamkú 2022</p>
+    	   <p>&copy;Iguamkú 2022. Creado por Sofia Gil</p>
         </div>
     	</footer>
     );	
